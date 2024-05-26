@@ -1,9 +1,5 @@
 # Capstone Project PART 3 (Machine Learning Classification) - Telco Customer Churn Dataset
 
-<p align="center">
-  <img src="./docs/header.png" alt="Header" width="800" height="400">
-</p>
-
 ## Problem Statement
 **"Optimizing Customer Retention Strategies in Telecommunications: Predictive Analysis of Customer Churn"**
 
